@@ -1,9 +1,9 @@
-<img src="https://drive.google.com/uc?export=view&id=15rhaobnUCRa4zE1-C3P5jqp7y42mshbH" alt="Me at Insper" align="left" height="200" />
+<img src="https://drive.google.com/uc?export=view&id=15rhaobnUCRa4zE1-C3P5jqp7y42mshbH" alt="Me at Insper" align="right" height="200" />
 
-### <div align="right">I'm Emily, a Computer Science undergraduate at Insper - Turning bugs into reality since 2004</div>  
-<div align="right">🔭 I’m currently working on <a href="https://github.com/emilybrtt/toca-da-raposa">Toca Wash</a></div>  
-<div align="right">👾 I’m currently learning React and Unity</div>  
-<div align="right"> <i> Fun fact: I don't like coffee</i></div>
+### <div align="left">I'm Emily, a Computer Science undergraduate at Insper - Turning bugs into reality since 2004</div>  
+<div align="left">🔭 I’m currently working on <a href="https://github.com/emilybrtt/toca-da-raposa">Toca Wash</a></div>  
+<div align="left">👾 I’m currently learning React and Unity</div>  
+<div align="left"> <i> Fun fact: I don't like coffee</i></div>
 
 <br/>  
 <br/>  
