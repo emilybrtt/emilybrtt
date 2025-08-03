@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/197519348?v=4" align="left" height="200" width="" /> 
+<img src="[https://avatars.githubusercontent.com/u/197519348?v=4](https://photos.fife.usercontent.google.com/pw/AP1GczO3JiuBNEyCyrezA7MlePD88OWtNQI8S35HSm5SbREIvMX9Jg22F_VMQw=w844-h1008-s-no-gm?authuser=0)" align="left" height="200" width="" /> 
 
 ### <div align="right">I'm Emily, a Computer Science undergraduate at Insper - Turning bugs into reality since 2004</div>  
 <div align="right">🔭 I’m currently working on <a href="https://github.com/emilybrtt/toca-da-raposa">Toca Wash</a></div>  
