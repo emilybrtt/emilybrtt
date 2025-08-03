@@ -1,26 +1,14 @@
-<img src="https://avatars.githubusercontent.com/u/197519348?v=4" align="left" height="200" width="" />  
-  
+<img src="https://avatars.githubusercontent.com/u/197519348?v=4" align="left" height="200" width="" /> 
 
 ### <div align="right">I'm Emily, a Computer Science undergraduate at Insper - Turning bugs into reality since 2004</div>  
-  
-
-<div align="right">🔭 I’m currently working on [Toca Wash](https://github.com/emilybrtt/toca-da-raposa)</div>  
-  
-
+<div align="right">🔭 I’m currently working on <a href="https://github.com/emilybrtt/toca-da-raposa">Toca Wash</a></div>  
 <div align="right">👾 I’m currently learning React and Unity</div>  
-  
-
 *<div align="right">Fun fact: I don't like coffee</div>*  
-  
-
 <br/>  
-
 
 ## My Skill Set  
 <div align='center'>
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -30,10 +18,7 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 </div>
-
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
@@ -43,10 +28,7 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://godotengine.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="Godot" height="50" /></a>
 </div>
-
 </td><td valign="top" width="33%">
-
-
 
 ### DevOps  
 <div align="center">  
@@ -55,11 +37,9 @@
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
-
 </td></tr></table>  
 </div>
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -80,18 +60,7 @@
 
 
 ## GitHub Stats  
-
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilybrtt&theme=dracula&show_icons=true&count_private=true&hide_border=true" align="center" /></div>    
-
-
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-  
-
 <br />
 
 ----
