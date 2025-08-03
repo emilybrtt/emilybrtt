@@ -3,7 +3,7 @@
 ### <div align="right">I'm Emily, a Computer Science undergraduate at Insper - Turning bugs into reality since 2004</div>  
 <div align="right">🔭 I’m currently working on <a href="https://github.com/emilybrtt/toca-da-raposa">Toca Wash</a></div>  
 <div align="right">👾 I’m currently learning React and Unity</div>  
-*<div align="right">Fun fact: I don't like coffee</div>*  
+<div align="right"> <i> Fun fact: I don't like coffee</i></div>* 
 <br/>  
 
 ## My Skill Set  
