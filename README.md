@@ -17,8 +17,8 @@
 
 <br/>  
 
-
 ## My Skill Set  
+<div align="center">  
 <table><tr><td valign="top" width="33%">
 
 
@@ -66,7 +66,7 @@
 </td></tr></table>  
 
 <br/>  
-
+</div>
 
 ## Connect with me  
 <div align="center">
@@ -86,17 +86,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=emilybrtt&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
   
 
 <br/>  
