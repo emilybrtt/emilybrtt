@@ -18,9 +18,10 @@ void main() {
 ```
 
 - **President** of Insper Code Jr., Insper's software development student organization
-- **Teaching Assistant** for Effective Programming (Python, JavaScript, SQL, MongoDB)
-- Coordinated **Help the Fox**, 2nd place at the Insper Awards (Impact & Engagement)
+- **Teaching Assistant** for Effective Programming and Ethics
+- **Undergraduate Researcher** (PIBIC scholarship), working on [PREENCHER: tema da pesquisa]
 - **Looking for:** software development internships, with computer graphics as the long-term goal
+
 
 ## Stack
 
